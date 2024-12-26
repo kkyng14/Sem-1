@@ -1,3 +1,5 @@
+Digital Logic
+------------------------------------------------------------------------------------------------
 Digital electronics is the foundation of all microprocessor-based systems found in computers,
 robots, automobiles, and industrial control systems. This course introduces the students to digital
 electronics and provides a broad overview of many important concepts, components, and tools.
