@@ -2,7 +2,7 @@ Year 1 Sem 2
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 SECR1513 - Digital Logic https://github.com/kkyng14/Sem-1/blob/main/Digital%20Logic%20README.md
 
-📚 SECJ2203 - Software Engineering
+📚 SECJ2203 - Software Engineering https://github.com/kkyng14/Sem-1/blob/main/Software%20Engineering%20README.md
 
 📚 SECD2613 - System Analysis and Design
 
